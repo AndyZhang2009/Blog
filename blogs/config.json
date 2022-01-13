@@ -1,0 +1,20 @@
+{
+    "config": {
+        "blogs": [
+            {
+                "name": "test1",
+                "title": "Test1",
+                "tag": "Test",
+                "description": "测试文章-测试基本功能",
+                "time": "2022年1月8日"
+            },
+            {
+                "name": "test2",
+                "title": "Test2",
+                "tag": "Test",
+                "description": "测试文章-测试其他功能",
+                "time": "2022年1月8日"
+            }
+        ]
+    }
+}

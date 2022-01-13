@@ -1,0 +1,73 @@
+body {
+    min-height: 90vh;
+}
+
+#article {
+    margin-left : 50px;
+    margin-right: 50px;
+}
+
+#article h1 {
+    font-size     : 3em;
+    padding-top   : 20px;
+    padding-bottom: 25px;
+}
+
+#article h2 {
+    font-size     : 2.5em;
+    padding-top   : 15px;
+    padding-bottom: 20px;
+}
+
+#article h3 {
+    font-size     : 2em;
+    padding-top   : 10px;
+    padding-bottom: 15px;
+}
+
+#article h4 {
+    font-size     : 1.5em;
+    padding-top   : 5px;
+    padding-bottom: 10px;
+}
+
+#article h5 {
+    font-size     : 1em;
+    padding-top   : 0px;
+    padding-bottom: 50px;
+}
+
+#article h6 {
+    font-size     : 0.5em;
+    padding-top   : -5px;
+    padding-bottom: 0px;
+}
+
+#article p {
+    font-size     : 0.5em;
+    padding-top   : -5px;
+    padding-bottom: 0px;
+}
+
+div.front-widget-inner img.user_img {
+    margin       : 0px 0px 0px -25px;
+    overflow     : hidden;
+    border-radius: 100vh;
+    min-width    : 50px;
+    min-height   : 50px;
+    max-width    : 50px;
+    max-height   : 50px;
+}
+
+div.front-widget-inner h3 {
+    margin-left: 20px;
+    height     : 100%;
+    line-height: 280%;
+    font-size  : larger;
+}
+
+div.front-widget-inner {
+    display      : flex;
+    justify-items: center;
+    width        : 100%;
+}
